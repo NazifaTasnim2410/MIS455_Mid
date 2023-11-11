@@ -1,8 +1,8 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 image{
     margin: 70px ;
     padding: 25px;
-    background-color: #73d8d8;
+    background-color: #73a7d8;
     border: 4px solid grey; 
     border-radius: 5%;
 }
@@ -31,7 +31,7 @@ p {
    div {
     margin: 50px ;
     padding: 25px;
-    background-color: #b0dadd;
+    background-color: #f0b476;
     border: 4px solid grey; 
     border-radius: 5%;
 } 
@@ -66,9 +66,10 @@ ul li a:hover {
 }
 
 footer{
-  background-color: blanchedalmond;
+  background-color: #f0efde;
   padding: 20px 0px 20px 0px;
   border-radius: 0px 0px 10px 10px;
   color: black;
   margin-top: 20px;
+  font-family: 'Dancing Script', cursive;
 }

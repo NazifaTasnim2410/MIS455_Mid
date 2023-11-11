@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 .grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr; 
@@ -68,9 +69,10 @@ ul {
   }
   
   footer{
-    background-color: blanchedalmond;
+    background-color: #f0efde;
     padding: 20px 0px 20px 0px;
     border-radius: 0px 0px 10px 10px;
     color: black;
     margin-top: 20px;
+    font-family: 'Dancing Script', cursive;
   }
