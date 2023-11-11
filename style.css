@@ -1,4 +1,7 @@
+ /* Tasnim Nazifa Kamal 2010664 */
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 image{
     margin: 70px ;
     padding: 25px;
@@ -26,6 +29,12 @@ p {
     text-transform: uppercase;
   }
 
+  .font{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
   
 
    div {
@@ -42,6 +51,7 @@ p {
     padding: 0;
     overflow: auto;
     background-color: #333;
+    
   }
   
   li {
