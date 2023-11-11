@@ -64,3 +64,11 @@ p {
 ul li a:hover {
   color: rgb(85, 85, 85);
 }
+
+footer{
+  background-color: blanchedalmond;
+  padding: 20px 0px 20px 0px;
+  border-radius: 0px 0px 10px 10px;
+  color: black;
+  margin-top: 20px;
+}
